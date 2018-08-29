@@ -1,0 +1,55 @@
+
+body
+{
+    background-color: blueviolet;
+}
+h1{
+    font-size: 3em;
+    width: fit-content;
+}
+#inputSearch{
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+    margin-left: 68%;
+    width: fit-content;
+}
+article{
+    margin-top: 4%;
+}
+.comment{
+    margin-left: 3% ;
+    display: inline;
+}
+p{
+    margin-left: 10%;
+    margin-top: -5%;
+    display: inline-block;
+    
+}
+#spanWrapper{
+    font-size: 2em;
+
+}
+#sheat{
+    padding: 5%;
+    margin: 15%;
+    margin-top: 7em;
+    border: 10px solid black;
+    box-sizing: border-box;
+    background: white;
+    min-width: 1em;
+    height: 55em;
+}
+#sheatTitle{
+    margin-left: 40%;
+
+}
+#myIcon{
+    display: inline-block;
+    margin-right: 15%;
+}
+hr{
+    display: block
+}
+
+ 
